@@ -1,2 +1,6 @@
 hey i have added few new codes
+<<<<<<< HEAD
 have you done that
+=======
+hey do not open
+>>>>>>> 0bd3ffc81a5c8d7fa0bcf2c51aa5c5f72816aec3
