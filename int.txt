@@ -3,4 +3,9 @@ hey i have added few new codes
 have you done that
 =======
 hey do not open
+<<<<<<< HEAD
 >>>>>>> 0bd3ffc81a5c8d7fa0bcf2c51aa5c5f72816aec3
+=======
+hrhjgkh
+gjkfhk
+>>>>>>> 3a453b531bb16c3aaadda74dbe9ea5157c406b84
